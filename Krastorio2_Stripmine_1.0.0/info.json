@@ -1,0 +1,9 @@
+{
+  "name": "Krastorio2_Stripmine",
+  "version": "1.0.0",
+  "factorio_version": "0.18",
+  "title": "Krastorio2 Stripmine",
+  "author": "Quezler",
+  "dependencies": ["base", "Krastorio2"],
+  "description": "Sets mining radius of krastorio2's drills to its mk #"
+}
